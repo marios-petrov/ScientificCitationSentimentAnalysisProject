@@ -5,6 +5,8 @@ The dataset is originally downloaded as a text document, for easier implementati
 Original Download: https://cl.awaisathar.com/citation-sentiment-corpus/
 Original Paper: https://aclanthology.org/P11-3015.pdf
 
+*This project utilized GloVe embeddings (6b,100d)
+GloVe Download Link:https://nlp.stanford.edu/projects/glove/
 
 Necessary Libraries:
 * Tensorflow
