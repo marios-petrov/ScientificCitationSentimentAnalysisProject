@@ -1,5 +1,5 @@
 ﻿Dataset:
-The dataset is originally downloaded as a text document, for easier implementation we re-formatted the document and converted it into a csv. I’ve attached this altered data set in the directory titled “Petrov_Skevingotn_CodeAndDataset” since the code needs this to properly run. However, if you’re curious about the original dataset we’ve provided the download link below:
+The dataset is originally downloaded as a text document, for easier implementation we re-formatted the document and converted it into a csv. I’ve attached this altered data set in the directory titled “Petrov_Skevington_CodeAndDataset” since the code needs this to properly run. However, if you’re curious about the original dataset we’ve provided the download link below:
 
 
 Original Download: https://cl.awaisathar.com/citation-sentiment-corpus/
